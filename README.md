@@ -1,16 +1,166 @@
-## Hi there 👋
+# 👋 Olá! Sou Wesley Rios
 
-<!--
-**RiosWesley/RiosWesley** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<div align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=00D9FF&center=true&vCenter=true&width=435&lines=Full+Stack+Developer;React+%26+TypeScript+Specialist;SaaS+Entrepreneur;AI+Integration+Enthusiast" alt="Typing SVG" />
+</div>
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 Sobre Mim
+
+Sou um **desenvolvedor apaixonado por tecnologia** cursando Engenharia de Computação (6º semestre) com especialização em **desenvolvimento mobile e web**, focado em criar produtos inovadores e escaláveis. Meu diferencial é a **execução rápida de MVPs**, design intuitivo e integração de soluções de IA.
+
+💡 **Visão:** Transformar ideias em produtos digitais de impacto  
+🎯 **Foco:** Mobile-first, UX/UI design e monetização  
+🔥 **Paixão:** SaaS, automações inteligentes e análise de dados
+
+---
+
+## 💻 Tech Stack
+
+### 🎨 Frontend
+```
+TypeScript | JavaScript | React 18 | React Native/Expo
+Tailwind CSS | Material Design | CSS Modules | Recharts
+Vite | Next.js 14 | Glassmorphism | Dark Mode/Theme
+```
+
+### ⚙️ Backend & Infraestrutura
+```
+Node.js | Firebase (Firestore + Functions)
+Serverless Functions | API REST | JWT Auth
+Mercado Pago Integration | Google Gemini API
+```
+
+### 🛠️ Ferramentas & DevOps
+```
+Vercel | Firebase Hosting | Git | GitHub
+Cursor | Replit | n8n | CI/CD Automation
+```
+
+---
+
+## 🌟 Projetos Destacados
+
+### 💰 **ZeroGasto**
+**Aplicativo de Gestão Financeira Pessoal**
+- Dashboard interativo com gráficos em tempo real
+- Controle de metas, categorização automática
+- Dark mode nativo, design mobile-first
+- Análise de padrões de gastos com IA
+- **Stack:** React, TypeScript, Tailwind, Firebase, Recharts
+
+### 🔮 **HoroscopoZap**
+**Análise Inteligente de Chats com IA**
+- Processamento de mensagens WhatsApp com NLP
+- Análise de sentimentos e predições com Google Gemini
+- Sistema de pagamento com Mercado Pago (Pix + Cartão)
+- Backend escalável com Firebase Functions
+- Funcionalidades premium monetizadas
+- **Stack:** React, TypeScript, Firebase, Google Gemini, Mercado Pago
+
+### 🎬 **ViralTok**
+**Plataforma de Análise de Tendências Sociais**
+- Rastreamento de trends em TikTok/Instagram
+- Dashboards personalizados de métricas
+- **Stack:** TypeScript, Node.js, APIs Sociais
+
+### 📊 Outros Projetos Relevantes
+- **MonitoramentoAPS-WEB:** Painéis de controle em tempo real
+- **chat-wrapped-mobile:** Análise envolvente de chats pessoais
+- **propostas-em-acao-manager:** Sistema de gerenciamento web
+- **TrackBug:** Sistema de gerenciamento de empréstimos
+- **SecureLab:** Dashboard de segurança
+
+---
+
+## 🎯 Skills & Competências
+
+### Frontend & UX/UI
+✅ Interfaces mobile-first responsivas  
+✅ Componentização modular e reusável  
+✅ Animações suaves e transições fluidas  
+✅ Temas escuros/claros com Glassmorphism  
+✅ Otimização de performance e rendering  
+✅ Acessibilidade (A11Y) e SEO  
+
+### Backend & Arquitetura
+✅ APIs RESTful escaláveis  
+✅ Autenticação e autorização (JWT)  
+✅ Banco de dados NoSQL (Firestore)  
+✅ Funções serverless com Firebase  
+✅ Integração com APIs externas  
+✅ Segurança e boas práticas de código  
+
+### SaaS & Product
+✅ Estratégia de MVP e go-to-market  
+✅ Integração de pagamentos (Mercado Pago)  
+✅ Monetização e modelos de negócio  
+✅ Análise de UX e iteração de produto  
+✅ Automações inteligentes  
+
+### IA & Inovação
+✅ Integração com Google Gemini API  
+✅ NLP e análise de sentimentos  
+✅ Workflows automatizados com n8n  
+✅ Processamento de dados com IA  
+
+---
+
+## 📈 Estatísticas GitHub
+
+<div align="center">
+  <a href="https://github.com/RiosWesley">
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=RiosWesley&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" />
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RiosWesley&layout=compact&langs_count=7&theme=tokyonight" />
+  </a>
+</div>
+
+---
+
+## 🎓 Aprendizado Contínuo
+
+📚 Estudando:
+- Arquitetura avançada de microsserviços
+- Otimização de performance em escala
+- Estratégias avançadas de monetização SaaS
+- Machine Learning aplicado a produtos
+
+🎯 Próximos passos:
+- Publicar SaaS de alto valor
+- Explorar Web3 e blockchain
+- Masterclass em growth hacking
+
+---
+
+## 🤝 Vamos Colaborar?
+
+🔗 **Conecte-se comigo:**
+- 💼 LinkedIn: [in/rioswesley](https://linkedin.com/in/rioswesley)
+- 🐙 GitHub: [@RiosWesley](https://github.com/RiosWesley)
+- 📧 Email: wesley@example.com
+- 🎬 TikTok/Instagram: [@RiosWesley](https://instagram.com/rioswesley)
+
+### Estou aberto para:
+✨ Projetos freelance e consultoria  
+✨ Parcerias em SaaS  
+✨ Mentorias em desenvolvimento web/mobile  
+✨ Discussões sobre inovação tech  
+
+---
+
+## 💡 Curiosidades
+
+🎮 Jogador casual de Valorant  
+🎵 Música eletrônica e produção  
+📱 Enthusiasta de UX/UI design  
+🚀 Empreendedor mindset  
+📊 Analista de tokenomics e cripto  
+
+---
+
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=RiosWesley&color=00D9FF" alt="Profile views" />
+</div>
+
+**⭐ Se meu perfil foi útil, considere dar uma estrela nos repositórios que você gostou! ⭐**
