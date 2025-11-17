@@ -34,41 +34,14 @@ Mercado Pago Integration | Google Gemini API
 
 ### 🛠️ Ferramentas & DevOps
 ```
-Vercel | Firebase Hosting | Git | GitHub
-Cursor | Replit | n8n | CI/CD Automation
+Vercel | Firebase | Git | GitHub | n8n | CI/CD Automation
 ```
 
 ---
 
 ## 🌟 Projetos Destacados
 
-### 💰 **ZeroGasto**
-**Aplicativo de Gestão Financeira Pessoal**
-- Dashboard interativo com gráficos em tempo real
-- Controle de metas, categorização automática
-- Dark mode nativo, design mobile-first
-- Análise de padrões de gastos com IA
-- **Stack:** React, TypeScript, Tailwind, Firebase, Recharts
-
-### 🔮 **HoroscopoZap**
-**Análise Inteligente de Chats com IA**
-- Processamento de mensagens WhatsApp com NLP
-- Análise de sentimentos e predições com Google Gemini
-- Sistema de pagamento com Mercado Pago (Pix + Cartão)
-- Backend escalável com Firebase Functions
-- Funcionalidades premium monetizadas
-- **Stack:** React, TypeScript, Firebase, Google Gemini, Mercado Pago
-
-### 🎬 **ViralTok**
-**Plataforma de Análise de Tendências Sociais**
-- Rastreamento de trends em TikTok/Instagram
-- Dashboards personalizados de métricas
-- **Stack:** TypeScript, Node.js, APIs Sociais
-
-### 📊 Outros Projetos Relevantes
-- **MonitoramentoAPS-WEB:** Painéis de controle em tempo real
-- **chat-wrapped-mobile:** Análise envolvente de chats pessoais
-- **propostas-em-acao-manager:** Sistema de gerenciamento web
+- **Seasons:** Análise envolvente de chats pessoais
 - **TrackBug:** Sistema de gerenciamento de empréstimos
 - **SecureLab:** Dashboard de segurança
 
@@ -100,7 +73,6 @@ Cursor | Replit | n8n | CI/CD Automation
 ✅ Automações inteligentes  
 
 ### IA & Inovação
-✅ Integração com Google Gemini API  
 ✅ NLP e análise de sentimentos  
 ✅ Workflows automatizados com n8n  
 ✅ Processamento de dados com IA  
@@ -136,10 +108,10 @@ Cursor | Replit | n8n | CI/CD Automation
 ## 🤝 Vamos Colaborar?
 
 🔗 **Conecte-se comigo:**
-- 💼 LinkedIn: [in/rioswesley](https://linkedin.com/in/rioswesley)
+- 💼 LinkedIn: [in/rioswesley]([https://linkedin.com/in/rioswesley](https://www.linkedin.com/in/wesley-rios-b5a1b6323/))
 - 🐙 GitHub: [@RiosWesley](https://github.com/RiosWesley)
-- 📧 Email: wesley@example.com
-- 🎬 TikTok/Instagram: [@RiosWesley](https://instagram.com/rioswesley)
+- 📧 Email: limarioswesley@gmail.com
+- 🎬 Instagram: [@RiosWesley](https://instagram.com/rioswesley1)
 
 ### Estou aberto para:
 ✨ Projetos freelance e consultoria  
