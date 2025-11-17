@@ -108,7 +108,7 @@ Vercel | Firebase | Git | GitHub | n8n | CI/CD Automation
 ## 🤝 Vamos Colaborar?
 
 🔗 **Conecte-se comigo:**
-- 💼 LinkedIn: [in/rioswesley]([https://linkedin.com/in/rioswesley](https://www.linkedin.com/in/wesley-rios-b5a1b6323/))
+- 💼 LinkedIn: [@rioswesley]([https://linkedin.com/in/rioswesley](https://www.linkedin.com/in/wesley-rios-b5a1b6323/))
 - 🐙 GitHub: [@RiosWesley](https://github.com/RiosWesley)
 - 📧 Email: limarioswesley@gmail.com
 - 🎬 Instagram: [@RiosWesley](https://instagram.com/rioswesley1)
