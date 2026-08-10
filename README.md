@@ -1,4 +1,3 @@
-````md
 <div align="center">
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:020617,35:0F172A,70:1D4ED8,100:06B6D4&height=230&section=header&text=Wesley%20Rios&fontSize=55&fontColor=FFFFFF&animation=fadeIn&fontAlignY=36&desc=Desenvolvedor%20Full%20Stack%20%7C%20Engenharia%20Agentic&descAlignY=58&descSize=19"/>
@@ -341,4 +340,3 @@ const engenharia = {
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:06B6D4,35:1D4ED8,70:0F172A,100:020617&height=140&section=footer"/>
 
 </div>
-```
