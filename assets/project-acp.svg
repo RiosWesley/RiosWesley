@@ -1,0 +1,21 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="600" height="232" viewBox="0 0 600 232" fill="none" role="img" aria-labelledby="title desc">
+<title id="title">01 - AGY ACP Adapter</title>
+<desc id="desc">Ilustração conceitual: uma ponte entre editor, protocolo ACP e agente de IA. Não é uma captura da aplicação.</desc>
+<rect width="600" height="232" rx="12" fill="#202722"/>
+<g stroke="#3C4A3F" stroke-width="1"><path d="M30 94H570M30 188H570M96 72V209M301 72V209M504 72V209" stroke-dasharray="3 7"/></g>
+<text x="27" y="39" fill="#B8C5B9" font-family="Arial,Helvetica,sans-serif" font-size="14" letter-spacing="1.5">01 / FERRAMENTAS PARA DEVS</text>
+<path d="M167 141H239M363 141H438" stroke="#F49A7A" stroke-width="2"/>
+<path d="M430 136L438 141L430 146M231 136L239 141L231 146" stroke="#F49A7A" stroke-width="2"/>
+<rect x="42" y="94" width="125" height="93" rx="10" fill="#2C352E" stroke="#677769"/>
+<path d="M42 113H167" stroke="#677769"/>
+<circle cx="54" cy="104" r="2" fill="#BBC6B9"/><circle cx="64" cy="104" r="2" fill="#BBC6B9"/>
+<path d="M84 133L72 145L84 157M124 133L136 145L124 157M113 128L98 164" stroke="#F1F2E9" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/>
+<rect x="239" y="98" width="124" height="86" rx="43" fill="#F49A7A"/>
+<text x="301" y="151" text-anchor="middle" fill="#252B25" font-family="Arial,Helvetica,sans-serif" font-size="28" font-weight="700" letter-spacing="1">ACP</text>
+<rect x="438" y="94" width="125" height="93" rx="10" fill="#2C352E" stroke="#677769"/>
+<path d="M500 118V163M478 140H522M485 125L515 155M485 155L515 125" stroke="#E2E9D6" stroke-width="3" stroke-linecap="round"/>
+<circle cx="500" cy="140" r="9" fill="#2C352E" stroke="#E2E9D6" stroke-width="3"/>
+<text x="104" y="211" text-anchor="middle" fill="#B8C5B9" font-family="Arial,Helvetica,sans-serif" font-size="12" letter-spacing="1">EDITOR</text>
+<text x="301" y="211" text-anchor="middle" fill="#B8C5B9" font-family="Arial,Helvetica,sans-serif" font-size="12" letter-spacing="1">PROTOCOLO</text>
+<text x="500" y="211" text-anchor="middle" fill="#B8C5B9" font-family="Arial,Helvetica,sans-serif" font-size="12" letter-spacing="1">AGENTE</text>
+</svg>

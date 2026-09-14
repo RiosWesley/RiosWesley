@@ -1,78 +1,88 @@
-<div align="center">
+<!-- Assets locais: sem widgets de estatisticas ou servicos externos de imagens. -->
+<picture>
+  <source media="(max-width: 600px) and (prefers-color-scheme: dark)" srcset="./assets/hero-mobile-dark.svg">
+  <source media="(max-width: 600px)" srcset="./assets/hero-mobile-light.svg">
+  <source media="(prefers-color-scheme: dark)" srcset="./assets/hero-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="./assets/hero-light.svg">
+  <img src="./assets/hero-light.svg" width="100%" alt="Wesley Rios. Desenvolvedor full stack. Interfaces cuidadas, engenharia por trás.">
+</picture>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:020617,45:0F172A,100:2563EB&height=210&section=header&text=Wesley%20Rios&fontSize=48&fontColor=FFFFFF&fontAlignY=38&desc=Desenvolvedor%20Full%20Stack&descAlignY=58&descSize=18" />
+<p align="center">
+  <a href="https://www.linkedin.com/in/rioswesley1/"><strong>LinkedIn&nbsp;↗</strong></a>
+  &nbsp;&nbsp; / &nbsp;&nbsp;
+  <a href="mailto:limarioswesley@gmail.com"><strong>E-mail&nbsp;↗</strong></a>
+</p>
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=18&pause=1400&color=58A6FF&center=true&vCenter=true&width=650&lines=React+%2B+TypeScript+%2B+Node.js;Software%2C+backend+e+IA+aplicada;Construindo+e+evoluindo+produtos+reais" alt="Apresentação" />
+<br>
 
-<br/>
+Sou **desenvolvedor full stack no [UnDesk](https://undesk.com.br)** e estudante de **Engenharia da Computação**, em Feira de Santana, Bahia.
 
-<a href="https://www.linkedin.com/in/rioswesley1/">
-  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" />
-</a>
-<a href="https://github.com/RiosWesley">
-  <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub" />
-</a>
-<a href="mailto:limarioswesley@gmail.com">
-  <img src="https://img.shields.io/badge/E--mail-EA4335?style=flat-square&logo=gmail&logoColor=white" alt="E-mail" />
-</a>
-
-</div>
-
-## Sobre mim
-
-Sou **desenvolvedor full stack** e estudante de **Engenharia da Computação**, em Feira de Santana, Bahia.
-
-Atualmente trabalho no desenvolvimento do **UnDesk**, contribuindo para a manutenção e evolução de um produto SaaS em produção. Minha rotina envolve implementação de funcionalidades, correção de bugs, integração entre frontend e backend e investigação de problemas em código existente.
-
-Tenho interesse especial em **arquitetura de software, backend e IA aplicada ao desenvolvimento**. No meu fluxo de trabalho, também utilizo agentes de IA para explorar codebases, estruturar implementações, investigar problemas e apoiar revisões técnicas.
-
-## Stack principal
-
-<div align="center">
-
-<img src="https://skillicons.dev/icons?i=ts,react,vite,nodejs,express,postgres,redis,aws,docker,git,github,python&theme=dark" alt="Tecnologias" />
-
-</div>
-
-<br/>
-
-**Frontend:** React, TypeScript, Vite, TanStack Query, Tailwind CSS e Material UI  
-**Backend:** Node.js, Express, PostgreSQL, APIs REST e WebSockets  
-**Infraestrutura:** AWS, Docker, Redis, Git e GitHub  
-**IA:** agentes de código, RAG, LLMs locais, busca semântica e prompt engineering
+Trabalho na evolução de um SaaS em produção: interfaces, integrações entre frontend e backend e investigação de bugs. Nos projetos pessoais, exploro **ferramentas para desenvolvedores, IA local e Android**.
 
 ## Projetos selecionados
 
-### [Recall.ai](https://github.com/RiosWesley/recall-ai)
+<table>
+<tr>
+<td width="50%" valign="top">
+<a href="https://github.com/RiosWesley/agy-zed-acp"><img src="./assets/project-acp.svg" width="100%" alt="AGY ACP Adapter: ponte entre editor, protocolo e agente de IA."></a>
+<h3>AGY ACP Adapter</h3>
+<p><strong>Experimental</strong> · Ferramentas para devs</p>
+<p>Adaptador não oficial em Rust para conectar o CLI do Antigravity ao Zed e a outros clientes do Agent Client Protocol.</p>
+<p><strong>Sessões persistentes, streaming e contexto de workspace.</strong> Validação inicial documentada no Zed para Windows.</p>
+<p><code>Rust</code> <code>ACP</code> <code>JSON-RPC</code></p>
+<p><a href="https://github.com/RiosWesley/agy-zed-acp"><strong>Explorar o projeto ↗</strong></a></p>
+</td>
+<td width="50%" valign="top">
+<a href="https://github.com/RiosWesley/recall-ai"><img src="./assets/project-recall.svg" width="100%" alt="Recall.ai: busca por contexto e IA local para conversas."></a>
+<h3>Recall.ai</h3>
+<p><strong>Em desenvolvimento</strong> · Aplicação desktop</p>
+<p>Aplicação desktop em desenvolvimento para buscar conversas por significado e fazer perguntas sobre seu conteúdo.</p>
+<p>Arquitetura voltada a <strong>RAG, inferência local e privacidade</strong>, com documentação técnica e roadmap.</p>
+<p><code>Electron</code> <code>React</code> <code>SQLite</code></p>
+<p><a href="https://github.com/RiosWesley/recall-ai"><strong>Explorar o projeto ↗</strong></a></p>
+</td>
+</tr>
+</table>
 
-Aplicação desktop para busca e compreensão de conversas com foco em privacidade. Combina **busca semântica, RAG e modelos locais**, mantendo o processamento no dispositivo.
+### [HoroscopoZap ↗](https://github.com/RiosWesley/HoroscopoZap)
 
-`Electron` `React` `TypeScript` `SQLite` `node-llama-cpp`
-
-### [CyberSentinel](https://github.com/RiosWesley/cybersec-agent)
-
-Agente experimental para análise de incidentes de segurança. Interpreta logs, classifica ameaças e relaciona eventos a técnicas da **MITRE ATT&CK** utilizando inferência local.
-
-`Python` `FastAPI` `Qwen` `llama.cpp`
-
-### [HoroscopoZap](https://github.com/RiosWesley/HoroscopoZap)
-
-Aplicação web para análise de conversas do WhatsApp, combinando processamento de linguagem natural, IA generativa, visualização de dados e integração de pagamentos.
+**Protótipo web · Integração full stack.** Análise de conversas do WhatsApp que reúne visualização de dados, IA generativa e integração de pagamentos.
 
 `React` `TypeScript` `Firebase` `Gemini` `Mercado Pago`
 
-## Desenvolvimento e interesses
+## Tecnologias
 
-Busco evoluir principalmente em engenharia de software, arquitetura, backend e sistemas baseados em IA. Prefiro soluções proporcionais ao problema, com atenção a manutenção, clareza e comportamento em produção.
+| Contexto | Tecnologias |
+| :--- | :--- |
+| **Interfaces web** | TypeScript, React, Vite, Tailwind CSS |
+| **APIs e dados** | Node.js, Express, PostgreSQL, Firebase |
+| **Ambiente de desenvolvimento** | Git, Docker, Linux |
+| **Projetos e pesquisa** | Rust, Python, Electron, LLMs locais, Android |
 
-Além do trabalho profissional, uso projetos próprios para experimentar tecnologias como **LLMs locais, RAG, aplicações desktop e agentes especializados**.
+## Open source e pesquisa
 
-<div align="center">
+**[JetBrains / swot](https://github.com/JetBrains/swot/pull/39065)**: contribuição integrada para incluir o domínio acadêmico da UNIFAN.
 
-<br/>
+<details>
+<summary><strong>Android: compatibilidade, instrumentação e IA local</strong></summary>
 
-<a href="https://www.linkedin.com/in/rioswesley1/">LinkedIn</a> · <a href="https://github.com/RiosWesley">GitHub</a>
+<br>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:2563EB,55:0F172A,100:020617&height=110&section=footer" />
+Uma frente de experimentação em dispositivos próprios, separada do trabalho em produto.
 
-</div>
+**Galaxy S24 Ultra · Contribuição integrada**  
+Port de compatibilidade para o modelo internacional SM-S928B no projeto **Root My Galaxy**, com validação documentada em hardware. Contribuição de portabilidade a partir da implementação original da comunidade.  
+[Ver contribuição aceita ↗](https://github.com/BuSung-dev/Root-My-Galaxy-Payloads/pull/208)
+
+**LSPosed e resumos locais · Experimento Android**  
+Módulo para investigar compatibilidade de recursos da One UI e integração de inferência local ao fluxo de resumos de notificações. A documentação registra a investigação de limitações de hardware e a alternativa com `llama.cpp`.  
+[Ver código ↗](https://github.com/RiosWesley/fold8-feature-spoofer) · [Ler a nota técnica ↗](https://github.com/RiosWesley/fold8-feature-spoofer/blob/main/LOCAL_SUMMARY.md)
+
+</details>
+
+---
+
+<p align="center">
+  <strong>Vamos conversar sobre produto e engenharia.</strong><br>
+  <a href="https://www.linkedin.com/in/rioswesley1/">LinkedIn</a> · <a href="mailto:limarioswesley@gmail.com">limarioswesley@gmail.com</a>
+</p>

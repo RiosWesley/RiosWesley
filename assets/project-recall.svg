@@ -1,0 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="600" height="232" viewBox="0 0 600 232" fill="none" role="img" aria-labelledby="title desc">
+<title id="title">02 - Recall.ai</title>
+<desc id="desc">Ilustração conceitual de mensagens conectadas por contexto dentro de um ambiente local. Não é uma captura da aplicação.</desc>
+<rect width="600" height="232" rx="12" fill="#E8ECDF"/>
+<text x="27" y="39" fill="#53604E" font-family="Arial,Helvetica,sans-serif" font-size="14" letter-spacing="1.5">02 / IA LOCAL E PRIVACIDADE</text>
+<path d="M250 73V201M474 73V201M64 139H548" stroke="#C7D1BD" stroke-dasharray="3 7"/>
+<path d="M255 113L347 101L429 140L513 96M255 159L347 101M255 159L429 140L508 184M429 140L361 190M347 101L361 190" stroke="#A7B69F" stroke-width="1.5"/>
+<rect x="50" y="80" width="205" height="47" rx="10" fill="#F8FAF2" stroke="#B6C1AB"/>
+<rect x="74" y="100" width="109" height="5" rx="2.5" fill="#819177"/>
+<rect x="195" y="100" width="31" height="5" rx="2.5" fill="#CCD5C2"/>
+<rect x="82" y="139" width="173" height="47" rx="10" fill="#F8FAF2" stroke="#B6C1AB"/>
+<rect x="105" y="160" width="100" height="5" rx="2.5" fill="#819177"/>
+<circle cx="347" cy="101" r="10" fill="#5B7254"/>
+<circle cx="361" cy="190" r="7" fill="#8EA382"/>
+<circle cx="513" cy="96" r="7" fill="#8EA382"/>
+<circle cx="508" cy="184" r="7" fill="#8EA382"/>
+<circle cx="429" cy="140" r="31" fill="#D8E1CB" stroke="#83997A"/>
+<rect x="416" y="138" width="26" height="21" rx="5" fill="#354B30"/>
+<path d="M422 138V131A7 7 0 0 1 436 131V138" stroke="#354B30" stroke-width="3"/>
+<circle cx="429" cy="148" r="2" fill="#E8ECDF"/>
+<text x="50" y="213" fill="#53604E" font-family="Arial,Helvetica,sans-serif" font-size="12" letter-spacing="1">MENSAGENS / CONTEXTO / BUSCA</text>
+</svg>

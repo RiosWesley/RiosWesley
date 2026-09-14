@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="720" height="408" viewBox="0 0 720 408" fill="none" role="img" aria-labelledby="title desc">
+<title id="title">Wesley Rios - Desenvolvedor full stack</title>
+<desc id="desc">Interfaces cuidadas. Engenharia por trás. Bahia, Brasil.</desc>
+<rect x="1" y="1" width="718" height="406" rx="18" fill="#141615" stroke="#363B36" stroke-width="2"/>
+<rect x="32" y="31" width="36" height="36" rx="9" fill="#F3F1E9"/>
+<path d="M40 43L44 56L50 46L56 56L60 43" stroke="#141615" stroke-width="2.8" stroke-linecap="round" stroke-linejoin="round"/>
+<g font-family="Arial,Helvetica,sans-serif">
+<text x="84" y="55" font-size="18" letter-spacing="1.8" fill="#A9B0AB">RIOSWESLEY</text>
+<text x="27" y="164" font-size="78" font-weight="700" letter-spacing="-4" fill="#F3F1E9">Wesley Rios<tspan fill="#F68B6B">.</tspan></text>
+<text x="33" y="225" font-size="32" letter-spacing="-.4" fill="#F3F1E9">Interfaces cuidadas.</text>
+<text x="33" y="267" font-size="32" letter-spacing="-.4" fill="#A9B0AB">Engenharia por trás.</text>
+</g>
+<path d="M33 309H687" stroke="#363B36"/>
+<g font-family="Arial,Helvetica,sans-serif" font-size="19" letter-spacing="1">
+<text x="33" y="350" fill="#F3F1E9">DESENVOLVEDOR FULL STACK</text>
+<text x="33" y="382" fill="#A9B0AB">BAHIA, BRASIL</text>
+</g>
+<path d="M620 362L668 314M622 314H668V360" stroke="#F68B6B" stroke-width="6" stroke-linecap="round" stroke-linejoin="round"/>
+</svg>

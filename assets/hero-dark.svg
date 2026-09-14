@@ -1,0 +1,30 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="388" viewBox="0 0 1200 388" fill="none" role="img" aria-labelledby="title desc">
+<title id="title">Wesley Rios - Desenvolvedor full stack</title>
+<desc id="desc">Interfaces cuidadas. Engenharia por trás. Desenvolvimento web, IA local e pesquisa Android. Bahia, Brasil.</desc>
+<style>
+.sans{font-family:Arial,Helvetica,sans-serif}
+.mono{font-family:'Courier New',monospace}
+.signal{animation:signal 7s ease-in-out infinite}
+@keyframes signal{0%,15%,85%,100%{transform:translateY(0)}50%{transform:translateY(-9px)}}
+@media(prefers-reduced-motion:reduce){.signal{animation:none}}
+</style>
+<rect x="1" y="1" width="1198" height="386" rx="18" fill="#141615" stroke="#363B36" stroke-width="2"/>
+<rect x="42" y="35" width="36" height="36" rx="9" fill="#F3F1E9"/>
+<path d="M50 47L54 60L60 50L66 60L70 47" stroke="#141615" stroke-width="2.8" stroke-linecap="round" stroke-linejoin="round"/>
+<text x="93" y="58" class="mono" font-size="15" letter-spacing="1.8" fill="#A9B0AB">RIOSWESLEY</text>
+<text x="1156" y="58" text-anchor="end" class="mono" font-size="13" letter-spacing="1.1" fill="#A9B0AB">PRODUTO / CÓDIGO / PESQUISA</text>
+<text x="38" y="189" class="sans" font-size="100" font-weight="700" letter-spacing="-5" fill="#F3F1E9">Wesley Rios<tspan fill="#F68B6B">.</tspan></text>
+<text x="44" y="246" class="sans" font-size="30" letter-spacing="-.5" fill="#F3F1E9">Interfaces cuidadas.</text>
+<text x="44" y="284" class="sans" font-size="30" letter-spacing="-.5" fill="#A9B0AB">Engenharia por trás.</text>
+<g transform="translate(916 113)">
+<path d="M-40 0H208M-40 168H208M0 -20V188M168 -20V188" stroke="#363B36" stroke-dasharray="3 7"/>
+<path d="M16 167V3H78C164 3 164 99 78 99H16M80 99L171 168" stroke="#222823" stroke-width="38" stroke-linejoin="round"/>
+<path d="M16 167V3H78C164 3 164 99 78 99H16M80 99L171 168" stroke="#F3F1E9" stroke-width="17" stroke-linejoin="round"/>
+<circle class="signal" cx="171" cy="168" r="13" fill="#F68B6B" stroke="#141615" stroke-width="6"/>
+<path d="M-6 -6H6M0 -12V0M162 174H174M168 168V180" stroke="#A9B0AB" stroke-width="1.3"/>
+</g>
+<path d="M44 325H1156" stroke="#363B36"/>
+<text x="44" y="357" class="mono" font-size="14" letter-spacing="1.3" fill="#F3F1E9">DESENVOLVEDOR FULL STACK</text>
+<text x="673" y="357" class="mono" font-size="13" letter-spacing=".7" fill="#A9B0AB">WEB / IA LOCAL / ANDROID</text>
+<text x="1156" y="357" text-anchor="end" class="mono" font-size="13" letter-spacing=".7" fill="#A9B0AB">BAHIA, BRASIL</text>
+</svg>
